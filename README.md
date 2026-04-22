@@ -1,7 +1,6 @@
 ##SG170
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78DA7&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Swati;CSE+Student+at+VIT+Chennai)
 
-##Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SG170&show_icons=true&theme=radical)
 
 
