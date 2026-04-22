@@ -3,9 +3,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SG170&show_icons=true&theme=radical)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Activity Graph
 
