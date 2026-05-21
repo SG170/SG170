@@ -8,3 +8,6 @@
 
 [![Swati's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SG170&theme=react-dark)](https://github.com/SG170)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SG170&show_icons=true&theme=dark)
+
