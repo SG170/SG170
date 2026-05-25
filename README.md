@@ -1,4 +1,4 @@
-# Hi, I'm SG170 👋
+# Hi, I'm SG170 
 
 
 ## Activity Graph
